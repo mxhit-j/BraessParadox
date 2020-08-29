@@ -1,0 +1,2 @@
+# BraessParadox
+Braess Paradox usually occurs under user-optimization and never under system-optimization. We are testing that in food web and ecosystem balance, and by extension in social behavior in animals. Perturbation of food web networks can mitigate cascade extinctions which follow a primary extinction, thus preventing loss of species and also checking for causality. We are also modifying the Braess topology using Hawk-Dove model to test social behavior in animals (eg. ants)
